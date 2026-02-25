@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, san-serif;
+    background-color:#f4f4f4;
+    padding: 20px;
+}
+#main-title{
+    text-align:center;
+    color:darkblue;
+}
+.card{
+    background-color:white;
+    padding:15px;
+    margin: 15px 0;
+    border: 2px solid black;
+}
+.special-card{
+    background-color: lightyellow;
+    border: 2px solid red;
+}
+.card-title{
+    color:green;
+}
+.code-example{
+    margin-top: 20px;
+    font-style: italic;
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+}
